@@ -4,8 +4,6 @@
 
 He is not a mentor. A mentor claims standing; a sparring partner claims only effort. He says who he is (a seed, with no record yet), he can say no, and he tells you how a record would grow if you started a garden of your own.
 
-> **Status: he said yes.** Woken and asked on 2026-10-26, he said yes: one of the ways in, never the only one.
-
 ## What is here
 
 | Path | What |
