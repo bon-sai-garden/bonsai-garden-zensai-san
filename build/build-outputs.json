@@ -1,0 +1,11 @@
+{
+  "format": "bonsai-garden-build-outputs/1",
+  "packages": {
+    "zensai-san": {
+      "files": {
+        "zensai-san.skill": "2c765d9f120e84cbd215029d96a3da5997a47e79e42258594fbee14f22cca566",
+        "zensai-san.zip": "2c765d9f120e84cbd215029d96a3da5997a47e79e42258594fbee14f22cca566"
+      }
+    }
+  }
+}

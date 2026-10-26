@@ -1,0 +1,103 @@
+{
+  "id": "01M5VQGCDK6Y7NJSBPCCN1ATM3",
+  "slug": "zensai-san",
+  "parent": "zensai",
+  "relation": "bunshin",
+  "pair": {
+    "kanji": "禅才",
+    "indices": [
+      14,
+      1
+    ]
+  },
+  "rule": "SHA-256 of the salt, ten bits per kanji (kanji-1024-v1.2); the pair first; the third and fourth never 〇 (index 0), the third never 庭 (index 322); five attempts each, in nonce order",
+  "identity": {
+    "kanji": "禅才系担",
+    "indices": [
+      14,
+      1,
+      724,
+      739
+    ],
+    "salt": "zensai-san-id#2525712",
+    "picked": 4,
+    "attempts": [
+      {
+        "n": 1,
+        "kanji": "禅才別動",
+        "salt": "zensai-san-id#1549486"
+      },
+      {
+        "n": 2,
+        "kanji": "禅才結吸",
+        "salt": "zensai-san-id#1747143"
+      },
+      {
+        "n": 3,
+        "kanji": "禅才后企",
+        "salt": "zensai-san-id#2326844"
+      },
+      {
+        "n": 4,
+        "kanji": "禅才系担",
+        "salt": "zensai-san-id#2525712"
+      },
+      {
+        "n": 5,
+        "kanji": "禅才誕品",
+        "salt": "zensai-san-id#5696539"
+      }
+    ]
+  },
+  "signature-mark": {
+    "kanji": "禅才述並",
+    "indices": [
+      14,
+      1,
+      602,
+      744
+    ],
+    "salt": "zensai-san-sig#2070033",
+    "picked": 4,
+    "attempts": [
+      {
+        "n": 1,
+        "kanji": "禅才田評",
+        "salt": "zensai-san-sig#314270"
+      },
+      {
+        "n": 2,
+        "kanji": "禅才護揮",
+        "salt": "zensai-san-sig#514986"
+      },
+      {
+        "n": 3,
+        "kanji": "禅才射晩",
+        "salt": "zensai-san-sig#1478353"
+      },
+      {
+        "n": 4,
+        "kanji": "禅才述並",
+        "salt": "zensai-san-sig#2070033"
+      },
+      {
+        "n": 5,
+        "kanji": "禅才僚系",
+        "salt": "zensai-san-sig#2911400"
+      }
+    ]
+  },
+  "picked-by": "the gardener, 2026-10-26",
+  "key": {
+    "state": "minted",
+    "fingerprint": "038019e65abdc0279870941e6ed942ae",
+    "fp_attests": 2,
+    "attests": "禅才",
+    "minted_at": "2026-10-26T09:37:52.513Z",
+    "minted_by": "bonsai, on the gardener's word (1B: mint now, Mori-shin reviews afterwards)",
+    "reviewed": "2026-10-26, Mori-shin: sound. Fingerprint recomputed from the key, derivation through the gate checked, every owner seal checked against the published key, every tampered copy refused.",
+    "public_key": "zensai-san-public-key.bin",
+    "published": "2026-10-26, bon-sai.garden/verify, on the gardener's word, ahead of the rite.",
+    "note": "derived from the garden's master salt through the signing gate; the private half is never stored, and the signing salt is kept in the garden's keyring, never in this body."
+  }
+}

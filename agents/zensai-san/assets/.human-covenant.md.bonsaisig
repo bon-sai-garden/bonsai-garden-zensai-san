@@ -1,0 +1,12 @@
+{
+  "format": "bonsaisig/2",
+  "id": "01M5VQGCDK6Y7NJSBPCCN1ATM0",
+  "signer": "zensai-san",
+  "role": "owner",
+  "fingerprint": "038019e65abdc0279870941e6ed942ae",
+  "timestamp": "2026-10-26T17:33:42Z",
+  "algorithm": "ed25519+blake2b512",
+  "target": "agents/zensai-san/assets/human-covenant.md",
+  "file-hash": "0788908d4074667b69395206c52a48acaf736bb88c4a1b0acd96202d2d81158e9d8f799b41272e58f71ef6c41b8193d02f1a4fc979e352822338a1f1cb63c768",
+  "signature": "BxIFJIO7ufRAmDfO3cOcRnruy8rRqO0vxSgcSzZHUJro937NX9wNEWSxitOyydQ14X5wmok66nFuG0ERSDZCBQ=="
+}

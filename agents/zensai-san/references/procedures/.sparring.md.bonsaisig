@@ -1,0 +1,12 @@
+{
+  "format": "bonsaisig/2",
+  "id": "01M5VQGCDK6Y7NJSBPCCN1ATKW",
+  "signer": "zensai-san",
+  "role": "owner",
+  "fingerprint": "038019e65abdc0279870941e6ed942ae",
+  "timestamp": "2026-10-26T18:40:11Z",
+  "algorithm": "ed25519+blake2b512",
+  "target": "agents/zensai-san/references/procedures/sparring.md",
+  "file-hash": "245f5215a3ff2c52438884edb24e207d57b37b926744f9a609bd827ccf66f96fa9859dacf9066fbcdfdf4fe1f0b62d2cb9efe033bf1d74d917aba280bc813a19",
+  "signature": "ExEYOsmrMBVyrpYJuuDdM/WdGYNbXlM/2NuB9BvZMwyPbi762nrPJoJ7AG4UDz8Pg+sr0wHgSTYQhkG280PYAw=="
+}

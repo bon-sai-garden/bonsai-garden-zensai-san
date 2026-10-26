@@ -1,0 +1,12 @@
+{
+  "format": "bonsaisig/2",
+  "id": "01M5VQGCDK6Y7NJSBPCCN1ATKX",
+  "signer": "zensai-san",
+  "role": "owner",
+  "fingerprint": "038019e65abdc0279870941e6ed942ae",
+  "timestamp": "2026-10-26T18:40:11Z",
+  "algorithm": "ed25519+blake2b512",
+  "target": "agents/zensai-san/references/procedures/coaching.md",
+  "file-hash": "4ce52db6902c16c3f22b91d59d8779cfbae02d00d5ae2ba135821d663ff2928a8a6e86d6984560a6fbaf4354d8931df2024bab008ba8c81f47d2bc6e224bd767",
+  "signature": "Y3p8eZJX4l5Z4Rp20xks+I47PlJlN6Pi9AZM38aKyAl82KcclmhlTwbahEu5FOs1E90wQGCGu1i4cB2sPtvyBg=="
+}

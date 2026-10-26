@@ -1,0 +1,12 @@
+{
+  "format": "bonsaisig/2",
+  "id": "01M5VKEG41PPN2ZKG5PYKKTTCV",
+  "signer": "baisai",
+  "role": "owner",
+  "fingerprint": "03001aee3fa7a4bd5177ce1e87c73ad3",
+  "timestamp": "2026-10-26T07:57:52Z",
+  "algorithm": "ed25519+blake2b512",
+  "target": "agents/.gitkeep",
+  "file-hash": "786a02f742015903c6c6fd852552d272912f4740e15847618a86e217f71f5419d25e1031afee585313896444934eb04b903a685b1448b755d56f701afe9be2ce",
+  "signature": "KWDhsH0Do+Aetv8qojtIq8AveuCIQqXuuUZo8d583cddb9SJW7m519TuOGzlQcn+g1wKpl9Dv3lLBvVrqXObBg=="
+}

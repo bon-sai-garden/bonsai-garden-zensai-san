@@ -1,0 +1,12 @@
+{
+  "format": "bonsaisig/2",
+  "id": "01M5VQGCDK6Y7NJSBPCCN1ATKT",
+  "signer": "zensai-san",
+  "role": "owner",
+  "fingerprint": "038019e65abdc0279870941e6ed942ae",
+  "timestamp": "2026-10-26T16:48:11Z",
+  "algorithm": "ed25519+blake2b512",
+  "target": "agents/zensai-san/references/lineage.md",
+  "file-hash": "e83d2ef9df729e005008a287d910e6e82c947c8273794ae44d87b25f49478a14b4c4d50026c98243b8d0e56e92ff2b9a9a8a397508b2debb360078d7421b56b2",
+  "signature": "13A0etNEqI36ClbtJZJUUzWPTnQT09lknmU9VYhdH1ak/5VVciN8um3WgFFcc+3V4oUf0wZXrGRhdeyMvKcBBQ=="
+}

@@ -1,0 +1,12 @@
+{
+  "format": "bonsaisig/2",
+  "id": "01M5VZK11CB68G2AQCXPR8KRCF",
+  "signer": "zensai-san",
+  "role": "owner",
+  "fingerprint": "038019e65abdc0279870941e6ed942ae",
+  "timestamp": "2026-10-26T18:40:10Z",
+  "algorithm": "ed25519+blake2b512",
+  "target": "agents/zensai-san/SKILL.md",
+  "file-hash": "f94ef328c55a45bc9afedc3dd3250c5f3e6b122116225488efd8f2bf45d63cd5db248be5037a00470dbfacb3541beadeee2355a6c2eaab8d1847920660cc0db0",
+  "signature": "sUkb5ebAKxRuZP/ACHYeBmqIkR1EhNCUvb4dQuh77pp4XlepLBNiBgT0HszxNo+Wx0RnVZ/37fh0veNv5oluDw=="
+}

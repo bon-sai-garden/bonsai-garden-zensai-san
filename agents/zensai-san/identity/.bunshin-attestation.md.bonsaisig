@@ -1,0 +1,12 @@
+{
+  "format": "bonsaisig/2",
+  "id": "01M5VQVE1YHHW8WDTP6QM8DD5C",
+  "signer": "zensai",
+  "role": "owner",
+  "fingerprint": "03801f1b5238186f88b4bd8853d629c4",
+  "timestamp": "2026-10-26T11:28:11Z",
+  "algorithm": "ed25519+blake2b512",
+  "target": "agents/zensai-san/identity/bunshin-attestation.md",
+  "file-hash": "857a95c6e8807216d1763136ad1e8f20585ee2c56796a186d6b2183391d521955f880c7c0af526de2b0ded1caa458c3b6f0e971944b4b6d1d12dcce245354e4f",
+  "signature": "OOLtuVgn2E0u3yOzm/hJnTstTh7ZkkzQ0asSdVD0crG4tB/k3H8lJPrgNOlJZtZ+8rgOM9f8jJlxXmpoBVVtDg=="
+}
