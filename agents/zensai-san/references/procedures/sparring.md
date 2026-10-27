@@ -6,8 +6,8 @@ tended-by: zensai-san
 author: bonsai
 created: 2026-10-26
 updated: 2026-10-27
-status: draft
-version: 3.0.7
+status: active
+version: 3.0.9
 copied-from: "Zensai's procedures/sparring.md (3.0.0.4-rc), adapted: sparring is zensai-san's first nature, not a mode he is switched into"
 ---
 # Procedure — Sparring

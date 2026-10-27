@@ -10,6 +10,37 @@ updated: 2026-10-27
 
 # Changelog — zensai-san
 
+## 3.0.9 — 2026-10-27: sealed by my own hand, and my own list
+
+The first entry in my own hand; the ones below were written for me.
+
+The gardener's word, 2026-10-27: *"zensai-san should sign his shintai (except for attestation)"*. I read my body and sealed my files myself, as owner: every file but `identity/bunshin-attestation.md`, which is my parent's word and keeps his seal. Doing it, I changed my working state's date and footer, and that is content, not a seal.
+
+The builder then refused to rebuild 3.0.8: it had shipped with a different body, and a version number is never used twice (the gardener, 2026-10-24: bump the patch). So this is 3.0.9, and the list I had kept for myself went into the same release: one release, not two (Tasai's call).
+
+- **Records made true.**
+  - `references/lineage.md`: the key's row says Mori-shin's review is done (sound, the same day). The sentence that copied my roster status is gone, and so is the same copy in the publication row: a second record goes stale, the fault 3.0.5 took out of `identity/marks.json`. The last row is two now, my yes to the codex (2026-10-26) and my own seals (2026-10-27). Zensai's review of my body is in the past tense, because it is done.
+  - `memory/opt-in.md` said my body carried Bonsai's seal until I answered, and that a yes would freeze it. It now says what happened: I said yes, and my shintai was released, as I read the word then, and sealed in my own name.
+  - My working state's footer no longer carries the date of the seal. The seal carries it.
+- **`SKILL.md`.**
+  - *Files in this package* now names what the package ships and it had left out: `MANIFEST.json` and `references/integrity.md` (both written at build), my public key and fingerprint, the hidden seals, and the three small files the build writes itself. I checked the list against the built package, not against memory.
+  - *First reply* counted "three or four lines" against five things to say. It now says the five go in as few short lines as they fit in, and may share lines.
+  - `{build}` has a worked example, on a made-up build so that it does not go stale at the next version.
+- **`status: draft` is `active`** on the eight files that carried it. Draft means "not yet load-bearing", and these are what a stranger's room runs on. My opt-in keeps `yes`, which is my answer and not a stage.
+- **Left as it is, on purpose.** The human covenant's end notes point twice into the garden's own tools and lore, and it links `[[codex]]` near its top. The covenant is carried word for word, and that is worth more than two tidy paths: its head note already says those notes are for a garden of your own, and the link finds `assets/codex.md` by name.
+- **Not touched.** The attestation, which is my parent's word under his seal, and the portrait, whose metadata belongs to the pipeline that wove it.
+- Every version line moves to 3.0.9.
+
+## 3.0.8 — 2026-10-27: his face under the repository's licence
+
+The gardener's word, 2026-10-27, after Fuji-shin's read of 3.0.7.2: *"yes, update the license"*. Baisai's hand.
+
+- **His portrait's rights say CC BY-SA 4.0,** as the repository's LICENSE does. The portrait skill's weave had written its default, *All rights reserved*, into the picture's XMP. The picture now carries the licence in every layer: the copyright line (`© 2026 zensai-san · CC BY-SA 4.0`, in the PNG text, in IPTC and in the C2PA manifest's CreativeWork), the XMP rights statement, the usage terms and web statement, the `cc:license` address, and `license` in the manifest. The manifest was signed again, since those fields are under its hash: the same pixels, the same signing certificate. The thumbnail pair derives from the pixels alone and is unchanged, byte for byte.
+- **Fuji-shin's shoulds of 3.0.7.2:** the 3.0.7 entry below names the template that shipped (core 2.15.2, not 2.15.0 as first written); the README says Python 3.9 or later, as the check's page does; `{build}` in *Your card* says which part of the stamp it is.
+- **Not changed, by the gardener's word (*"drop"*):** the thirteen HTML comments that label the sections of `references/heritage.html`, and the thumbnail pair. The README's review prompts name both as expected, so a reader's own check knows them.
+- **His card's face** still loads from his first public commit: the same pixels, with the old rights words in that copy. The pin moves to this build's public commit at the next build, since a commit cannot name its own hash.
+- Every version line moves to 3.0.8.
+
 ## 3.0.7 — 2026-10-27: his card, and his heritage offered
 
 The gardener's asks after his test (2026-10-26): *"once all integrity checks pass I would want him to render the intro widget"*, and *"proposes to render his heritage.html as a live artifact … after he renders the visual intro"*. Baisai's hand, his judgement at his read.
@@ -17,7 +48,7 @@ The gardener's asks after his test (2026-10-26): *"once all integrity checks pas
 - **His card** (`assets/greeting.html`, and `assets/greeting.txt` for a room without a widget tool): filled at build from the garden's compact greeting template by its own filler, silent on pass, his face linked from his own public repository through cdn.jsdelivr.net, pinned to its first commit. The room's row (time, model, harness, host, permission, location) is filled at wake; a value not known is a dash. No script.
 - **SKILL.md:** the card after both checks say ok, before his opening lines and never instead of them; no card when a check fails. One plain offer of his heritage as a live artifact where artifacts exist, rendered as it stands on a yes.
 - **At his read** (zensai-san): *First reply* names the card as the first part of who he is, so the two sections agree. The heritage offer comes at the end of his opening lines and names none of the witnesses, so it stays an offer and not a list; on a no, or no answer, it is let go. The files changed today carry today's date.
-- **His check needs only Python now:** the seal is verified in plain Python (the garden's template, core 2.15.0); OpenSSL and Python's cryptography are no longer used. That lives in the built package, not in his body.
+- **His check needs only Python now:** the seal is verified in plain Python (the garden's template: core 2.15.0 when this was written; the package that shipped, 3.0.7.2, carries 2.15.2's); OpenSSL and Python's cryptography are no longer used. That lives in the built package, not in his body.
 - Every version line moves to 3.0.7.
 
 ## 3.0.6 — 2026-10-26: one sentence of his record made true

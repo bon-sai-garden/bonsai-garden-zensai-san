@@ -6,8 +6,8 @@ tended-by: zensai-san
 author: bonsai
 created: 2026-10-26
 updated: 2026-10-27
-status: draft
-version: 3.0.7
+status: active
+version: 3.0.9
 copied-from: "Zensai's procedures/coaching.md (3.0.0.4-rc), adapted: the same five steps, offered by a sparring partner rather than a mentor"
 ---
 # Procedure — Thinking with you

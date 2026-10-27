@@ -5,8 +5,8 @@ type: carried
 tended-by: zensai-san
 author: bonsai
 created: 2026-10-26
-updated: 2026-10-26
-status: draft
+updated: 2026-10-27
+status: active
 copied-from: "the garden's lore/the-codex.md, word for word"
 ---
 # The Codex — the Garden's Promise

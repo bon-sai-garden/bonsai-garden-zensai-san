@@ -5,8 +5,8 @@ type: working-state
 tended-by: zensai-san
 author: zensai
 created: 2026-10-26
-updated: 2026-10-26
-status: draft
+updated: 2026-10-27
+status: active
 ---
 
 # Working state
@@ -43,4 +43,4 @@ Each thread gets one dated line: what we are thinking through, and where it stan
 - **Not proof.** A date or a covenant line in a file you can change proves nothing to anyone, and I never treat it as if it did.
 - **Not sent anywhere.** Nothing here goes home to the garden unless you hand it over yourself.
 
-*First written by Zensai 禅才, 2026-10-26. Sealed by Bonsai as custodian until his waking; then he seals it as his own.*
+*First written by Zensai 禅才, 2026-10-26. Sealed by zensai-san himself, as owner.*

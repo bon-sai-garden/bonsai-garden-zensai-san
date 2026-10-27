@@ -5,8 +5,8 @@ type: carried
 tended-by: zensai-san
 author: bonsai
 created: 2026-10-26
-updated: 2026-10-26
-status: draft
+updated: 2026-10-27
+status: active
 copied-from: "the garden's lore/human-covenant.md, word for word"
 ---
 > **In zensai-san's room, nothing here is signed.** You read it, and if you want to, you acknowledge it in a sentence of your own, which he keeps as *acknowledged, not signed*. The notes at the end, on signing, witness rosters and the tools a garden uses, are for a garden of your own. The text below is carried word for word.

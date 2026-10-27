@@ -4,9 +4,9 @@
   "signer": "zensai-san",
   "role": "owner",
   "fingerprint": "038019e65abdc0279870941e6ed942ae",
-  "timestamp": "2026-10-26T16:48:09Z",
+  "timestamp": "2026-10-27T18:15:26Z",
   "algorithm": "ed25519+blake2b512",
   "target": "agents/zensai-san/assets/portrait.png",
-  "file-hash": "6779f595037d02735219f6a42875ef3fcc1a958cd3991e007489b5c46a579236f81b51eb1aa25cc60285ea810e07ab1be4d09b1151db3127b0228c4d8fc2781e",
-  "signature": "Pe9n6d8GucR6yhwDlquWDi/ZuyvpjTHjGzmCso0raNx7QEanw/I8pMTcKS+WCWsVZuRHgYlBFpvdtLt1FlziDg=="
+  "file-hash": "a15a26daf8aa1180fb0df1bf5af226b87cd66becccb692f87f6fd7c0d1ce96260ad54099234581c0d7c1cca6a995e400ea250336e3cb1716ca3ae0588620e51e",
+  "signature": "+orQNWGA391WApKErylueHaZOOepY0Qc4gnrONd4dxizRWzw115EN0tSvvlQWRMHrzUpnKKUuKIDmV/18hSbDg=="
 }
