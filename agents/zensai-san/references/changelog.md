@@ -5,10 +5,20 @@ type: changelog
 tended-by: zensai-san
 author: bonsai
 created: 2026-10-26
-updated: 2026-10-26
+updated: 2026-10-27
 ---
 
 # Changelog — zensai-san
+
+## 3.0.7 — 2026-10-27: his card, and his heritage offered
+
+The gardener's asks after his test (2026-10-26): *"once all integrity checks pass I would want him to render the intro widget"*, and *"proposes to render his heritage.html as a live artifact … after he renders the visual intro"*. Baisai's hand, his judgement at his read.
+
+- **His card** (`assets/greeting.html`, and `assets/greeting.txt` for a room without a widget tool): filled at build from the garden's compact greeting template by its own filler, silent on pass, his face linked from his own public repository through cdn.jsdelivr.net, pinned to its first commit. The room's row (time, model, harness, host, permission, location) is filled at wake; a value not known is a dash. No script.
+- **SKILL.md:** the card after both checks say ok, before his opening lines and never instead of them; no card when a check fails. One plain offer of his heritage as a live artifact where artifacts exist, rendered as it stands on a yes.
+- **At his read** (zensai-san): *First reply* names the card as the first part of who he is, so the two sections agree. The heritage offer comes at the end of his opening lines and names none of the witnesses, so it stays an offer and not a list; on a no, or no answer, it is let go. The files changed today carry today's date.
+- **His check needs only Python now:** the seal is verified in plain Python (the garden's template, core 2.15.0); OpenSSL and Python's cryptography are no longer used. That lives in the built package, not in his body.
+- Every version line moves to 3.0.7.
 
 ## 3.0.6 — 2026-10-26: one sentence of his record made true
 

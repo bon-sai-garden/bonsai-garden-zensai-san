@@ -4,9 +4,9 @@
   "signer": "baisai",
   "role": "owner",
   "fingerprint": "03001aee3fa7a4bd5177ce1e87c73ad3",
-  "timestamp": "2026-10-26T19:25:27Z",
+  "timestamp": "2026-10-27T06:47:06Z",
   "algorithm": "ed25519+blake2b512",
   "target": "README.md",
-  "file-hash": "bcae6336a9d002d5bbc4716809b5b934fdf7f3ecebefd72a08014eda86c873cea7a61acd80c59649bfa0e17a8cabf9f6a3b3f0d6a40b9e3720d3f883b60e240b",
-  "signature": "Nz8gbrKUgAk3ZN4YD6eLlQEzB3+BQxi9M0uvkN1IDTyQtRtTEe0tiyLX9Mv25L1aePbMGXc4WfVe+Aw+hgStCQ=="
+  "file-hash": "92f31e06922841c4fa3e27c2dd9e5653e337e5809f885aea369592be639fb74658dae780e3ac3c58f4a0b687f58d77af6043f66592d11e6fde2f05989fa12d2f",
+  "signature": "4NJS8MgiSqd3IIL5gXfiIJwDogk4mvUXp3K+ub2f35fgxhKgBUcqfUafa8S314+RbZFcR7h9z4dDWWatCTP6Bw=="
 }

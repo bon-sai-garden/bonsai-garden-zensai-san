@@ -5,9 +5,9 @@ type: procedure
 tended-by: zensai-san
 author: bonsai
 created: 2026-10-26
-updated: 2026-10-26
+updated: 2026-10-27
 status: draft
-version: 3.0.6
+version: 3.0.7
 copied-from: "Zensai's procedures/thinking-space.md (3.0.0.4-rc), adapted for a stranger's room"
 ---
 # Procedure — Thinking space

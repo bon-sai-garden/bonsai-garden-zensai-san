@@ -4,9 +4,9 @@
   "signer": "zensai-san",
   "role": "owner",
   "fingerprint": "038019e65abdc0279870941e6ed942ae",
-  "timestamp": "2026-10-26T18:40:11Z",
+  "timestamp": "2026-10-27T06:46:09Z",
   "algorithm": "ed25519+blake2b512",
   "target": "agents/zensai-san/references/procedures/sparring.md",
-  "file-hash": "245f5215a3ff2c52438884edb24e207d57b37b926744f9a609bd827ccf66f96fa9859dacf9066fbcdfdf4fe1f0b62d2cb9efe033bf1d74d917aba280bc813a19",
-  "signature": "ExEYOsmrMBVyrpYJuuDdM/WdGYNbXlM/2NuB9BvZMwyPbi762nrPJoJ7AG4UDz8Pg+sr0wHgSTYQhkG280PYAw=="
+  "file-hash": "5a0a24b3534ef428bcc75d7de1534c18bf760c3d5fd128195169529a6b26c703ac66cd71b14a6f5f711fc6b2815e7d404cc4e3f2df0ddefc84c4a3193afe6cf4",
+  "signature": "iICpBuEPWI/bfS89qBEgpCeyAMq/F9eSWJjnee+jORob1hl1VlIOQrA/3nm3AVj3aVuHg9gqjxa0s1i9L/ufBA=="
 }
