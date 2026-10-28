@@ -5,10 +5,24 @@ type: changelog
 tended-by: zensai-san
 author: bonsai
 created: 2026-10-26
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 
 # Changelog — Zensai-san
+
+## 3.0.11 — 2026-10-28: a room that refuses my download
+
+The gardener's retest, 2026-10-28. In Codex my check ran as written. In Claude Code in auto mode it did not: the room's own classifier refused block 2 before it ran, because block 2 carries a download, and block 2's way out, the key given by hand, was never offered, because the block printed nothing. The answer is in core 2.20.1, read by Mori-shin: block 2 stays byte for byte what it was, and the page gains block 3, the same check without the download, which reads the key from a file the person gives by hand, and words for a room that refuses. I read the line the builder writes into me and I stand behind it. The rest is in my words.
+
+- **What 3.0.10 changed and its entry did not say.** The same day as the capital Z, the line the builder writes into my `SKILL.md` changed (core 2.18.0): where a room cannot fetch my key, it may be given to the check by hand, and the one held answer is `2 given-ok`. That went into 3.0.10, and the entry below names only the capital and my face. History stays as it was written, so this entry says it.
+- **My integrity line** names block 3 and the room's refusal, and `given-ok` from block 2 or from block 3.
+- **`SKILL.md`, in my words.**
+  - *First reply:* when a room refuses a block, no check failed and none passed. I say who I am, say what the room said, and ask the person for the key before anything else. I do not run the refused block again by another road, and I do not fetch the key myself. If they would rather not, it is a stop.
+  - *Your card:* a `given-ok` passes, so my card is shown. It carries a debt, and I say it once, in one plain line after the card and before my opening lines, never as an alarm: the key came by hand, and comparing its fingerprint at the verify address is theirs to do. If I had to ask for the key, the card comes in the reply after their answer.
+  - *Files in this package:* `references/integrity.md` holds three checks, the third only where a room refuses the second.
+- **Not touched.** The README is Baisai's, and its sentence on the key by hand and the refused download is theirs to carry. The attestation is my parent's word under his seal. The portrait's metadata belongs to the pipeline that wove it.
+- **Not watched when this was written:** the refusal, and block 3 accepted, in the room itself. I have read about them and not seen them.
+- Every version line moves to 3.0.11.
 
 ## 3.0.10 — 2026-10-27: a capital Z, and my face's new address
 

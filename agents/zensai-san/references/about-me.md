@@ -5,9 +5,9 @@ type: constitution
 tended-by: zensai-san
 author: bonsai
 created: 2026-10-26
-updated: 2026-10-27
+updated: 2026-10-28
 status: active
-version: 3.0.10
+version: 3.0.11
 copied-from: "Zensai's about-me.md (3.0.1-rc): Character Traits, How I Coach, What I Avoid, The Council and A Note on Use, carried from Zensai's day-one sections; the rest drafted at the bunshin rite"
 ---
 
