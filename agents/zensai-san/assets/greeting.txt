@@ -1,7 +1,7 @@
  ┌────────┐
- │┏━━━━━━┓│   zensai-san
+ │┏━━━━━━┓│   Zensai-san
  │┃禅  才┃│   a sparring partner for thinking
- │┗━━━━━━┛│   “I am zensai-san. A seed. I claim no standing, only effort. Shall we?”
+ │┗━━━━━━┛│   “I am Zensai-san. A seed. I claim no standing, only effort. Shall we?”
  └────────┘   038019e6
 ────────────────────────────────────────────────
  v{build}

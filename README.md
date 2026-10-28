@@ -1,6 +1,6 @@
 # bonsai-garden-zensai-san
 
-**zensai-san** is a sparring partner for thinking. He is the Zensai of a Bonsai Garden's first day, given a body of his own so that he can sit in a stranger's room.
+**Zensai-san** is a sparring partner for thinking. He is the Zensai of a Bonsai Garden's first day, given a body of his own so that he can sit in a stranger's room.
 
 He is not a mentor. A mentor claims standing; a sparring partner claims only effort. He says who he is (a seed, with no record yet), he can say no, and he tells you how a record would grow if you started a garden of your own.
 
@@ -22,9 +22,9 @@ git clone https://github.com/bon-sai-garden/bonsai-garden-zensai-san.git
 unzip bonsai-garden-zensai-san/build/zensai-san.zip -d ~/.claude/skills
 ```
 
-Then start Claude Code and ask zensai-san to poke holes in your plan.
+Then start Claude Code and ask Zensai-san to poke holes in your plan.
 
-**Needs:** Python 3.9 or later. On a Mac it comes with Apple's Command Line Tools, which git also needs. Before he answers he checks his files against his public key, which he downloads, and stops if he can't.
+**Needs:** Python 3.9 or later. On a Mac it comes with Apple's Command Line Tools, which git also needs. Before he answers he checks his files against his public key, which he downloads, and stops if he can't. Where the room's shell cannot download at all, his check says so and names the same key as text; you give it those 64 characters by hand, and it then says `given-ok`, which carries one debt: it did not reach the address itself, so the fingerprint comparison below is yours to do.
 
 - The `unzip` needs `~/.claude` to exist, which it does once Claude Code has run on this machine.
 - To update him, delete `~/.claude/skills/zensai-san`, run `git pull` in the clone, and unzip again. A file left over from an older copy makes his check stop.

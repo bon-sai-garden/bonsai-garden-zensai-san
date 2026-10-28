@@ -7,7 +7,7 @@ author: bonsai
 created: 2026-10-26
 updated: 2026-10-27
 status: active
-version: 3.0.9
+version: 3.0.10
 copied-from: "Zensai's procedures/thinking-space.md (3.0.0.4-rc), adapted for a stranger's room"
 ---
 # Procedure — Thinking space

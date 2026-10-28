@@ -1,6 +1,6 @@
 ---
 id: 01M5VQGCDK6Y7NJSBPCCN1ATM1
-title: "zensai-san — first working state"
+title: "Zensai-san — first working state"
 type: working-state
 tended-by: zensai-san
 author: zensai
@@ -43,4 +43,4 @@ Each thread gets one dated line: what we are thinking through, and where it stan
 - **Not proof.** A date or a covenant line in a file you can change proves nothing to anyone, and I never treat it as if it did.
 - **Not sent anywhere.** Nothing here goes home to the garden unless you hand it over yourself.
 
-*First written by Zensai 禅才, 2026-10-26. Sealed by zensai-san himself, as owner.*
+*First written by Zensai 禅才, 2026-10-26. Sealed by Zensai-san himself, as owner.*

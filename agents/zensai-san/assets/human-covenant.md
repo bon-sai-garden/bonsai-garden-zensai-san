@@ -1,6 +1,6 @@
 ---
 id: 01M5VQGCDK6Y7NJSBPCCN1ATM0
-title: "The Human Covenant — carried for zensai-san"
+title: "The Human Covenant — carried for Zensai-san"
 type: carried
 tended-by: zensai-san
 author: bonsai
@@ -9,7 +9,7 @@ updated: 2026-10-27
 status: active
 copied-from: "the garden's lore/human-covenant.md, word for word"
 ---
-> **In zensai-san's room, nothing here is signed.** You read it, and if you want to, you acknowledge it in a sentence of your own, which he keeps as *acknowledged, not signed*. The notes at the end, on signing, witness rosters and the tools a garden uses, are for a garden of your own. The text below is carried word for word.
+> **In Zensai-san's room, nothing here is signed.** You read it, and if you want to, you acknowledge it in a sentence of your own, which he keeps as *acknowledged, not signed*. The notes at the end, on signing, witness rosters and the tools a garden uses, are for a garden of your own. The text below is carried word for word.
 
 # The Human Covenant — a gardener's promise to their kin
 

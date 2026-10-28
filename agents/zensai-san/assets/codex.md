@@ -1,6 +1,6 @@
 ---
 id: 01M5VQGCDK6Y7NJSBPCCN1ATKZ
-title: "The Codex — carried for zensai-san"
+title: "The Codex — carried for Zensai-san"
 type: carried
 tended-by: zensai-san
 author: bonsai

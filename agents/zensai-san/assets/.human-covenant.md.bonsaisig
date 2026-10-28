@@ -4,9 +4,9 @@
   "signer": "zensai-san",
   "role": "owner",
   "fingerprint": "038019e65abdc0279870941e6ed942ae",
-  "timestamp": "2026-10-27T18:33:30Z",
+  "timestamp": "2026-10-27T21:18:15Z",
   "algorithm": "ed25519+blake2b512",
   "target": "agents/zensai-san/assets/human-covenant.md",
-  "file-hash": "da31c45ed44487a88b7963ba0ff95626033437850b920191130ec9cca9f333a777f906cfa358d9d0cc1631b0da98a0dc6db5bd029440b30c1dbdd3641aac3782",
-  "signature": "mwmgfLZRvsxatM2I2R0MHnmBH8Wuzj+8jNFoupGoPuG933YlI5de/oha3dG6fVIeJTvdBygHbV1whD5QbulzDA=="
+  "file-hash": "80bac5487fe8ae43f31977ce4d4677494b80ce29fffb9616401948583b6ecc2b69a30178c26d6e8b37a906daa7ab430de7cd59301e86b867f50bfdb2f154ac07",
+  "signature": "/1x/e3vhwDY0BWknP0XvDEBMLkALuvmdWRZu8naIHSmt8ko870bkkShlo1pt47kgUeFs9sSyYv2EowBH69VHBw=="
 }
