@@ -4,9 +4,9 @@ title: "The Codex — carried for Zensai-san"
 type: carried
 tended-by: zensai-san
 created: 2026-10-26
-updated: 2026-10-27
+updated: 2026-10-29
 status: active
-copied-from: "the garden's lore/the-codex.md, word for word"
+origin: [01M64495C66GVQR23KW6AGAZJJ]
 ---
 # The Codex — the Garden's Promise
 

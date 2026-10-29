@@ -4,9 +4,9 @@
   "signer": "zensai-san",
   "role": "owner",
   "fingerprint": "038019e65abdc0279870941e6ed942ae",
-  "timestamp": "2026-10-29T12:40:21Z",
+  "timestamp": "2026-10-29T17:22:34Z",
   "algorithm": "ed25519+blake2b512",
   "target": "agents/zensai-san/assets/codex.md",
-  "file-hash": "957a90d4e8c93f2ee0ef817c2f3363ad74c7bb1b5552777f50234f41a96a2c20b878d3909a41b269881eb4e52c91098d969800fd28d5ca09c36e9ea098a4dc60",
-  "signature": "tJLLYmA901WzapLanmWak+8/zbghLX+O7TFxoqZ9j/+Zy95rOAtkelMIUpg5+Nk0+rU1Rd9wzVbCA48r5hWmDQ=="
+  "file-hash": "5b238557feed3a10404b9daf9fd4541163093d430a8c7c020773d1bab171d2fc0357eb31d777e9be42eb0a549aad762335f6b7c16431eb3f419521d3d1fea2bf",
+  "signature": "IdAiepgXQpcjtB3GTQXtMgw9tCiZGStGXK8u4CwHd5RzpgIAjLhYCpRScMDsL3WGj1wVXMKO9adunepEpAAJBw=="
 }

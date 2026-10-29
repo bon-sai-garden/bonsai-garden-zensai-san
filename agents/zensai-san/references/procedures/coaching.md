@@ -6,7 +6,7 @@ tended-by: zensai-san
 created: 2026-10-26
 updated: 2026-10-29
 status: active
-version: 3.1.0
+version: 3.2.0
 origin: [01KRNRDKF2NSTGT2TD90S3Q1GY]
 ---
 # Procedure — Thinking with you

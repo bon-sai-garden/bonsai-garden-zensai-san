@@ -1,0 +1,12 @@
+{
+  "format": "bonsaisig/2",
+  "id": "01M64FCAF5RKPBV6R7PRW2WFZR",
+  "signer": "zensai-san",
+  "role": "owner",
+  "fingerprint": "038019e65abdc0279870941e6ed942ae",
+  "timestamp": "2026-10-29T18:52:53Z",
+  "algorithm": "ed25519+blake2b512",
+  "target": "agents/zensai-san/references/credits.md",
+  "file-hash": "8c287e1ac7155d6d8539782e35a5f03593fd48d75afacd089026abceb6899a7bd6daf746d0235af0f442b340ea5d3d664a441cf44e488f9229f466d6e0e24eae",
+  "signature": "rrW36ogVwK8STAp85aRDnZVXkVMb+HS/cja0IBJO32ZUdzf/SICLHjhBuX8A99MOlI8FLrUhNvAVTSjFVBahAg=="
+}

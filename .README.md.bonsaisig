@@ -1,12 +1,12 @@
 {
   "format": "bonsaisig/2",
   "id": "01M5VKEF8TKTSS4RJ0Z0VHM42H",
-  "signer": "baisai",
+  "signer": "zensai-san",
   "role": "owner",
-  "fingerprint": "03001aee3fa7a4bd5177ce1e87c73ad3",
-  "timestamp": "2026-10-29T12:13:57Z",
+  "fingerprint": "038019e65abdc0279870941e6ed942ae",
+  "timestamp": "2026-10-29T18:52:52Z",
   "algorithm": "ed25519+blake2b512",
   "target": "README.md",
-  "file-hash": "2fd63c43da6c30bd4436391e8fd5136b9fc61ec2c02fa6ef4011b6dd32ff9b950f7b1b4b7e58ef4dffe110a29dda0fece784d6f640b23ab2ec2679449a65ce31",
-  "signature": "zwTrrriChXvsS7qNsSCiXgl8LFtafWTHD33OLoSojHfoci0GDFjM+I8wnF8oVkJ6A0kjEST5nWvELAAoQDHNBQ=="
+  "file-hash": "6e0e99fa64b291c8d57fb0e4f2614dbb06c1f33efdfb5bcee197fa0ebddbc5a32b918954657d9d7d9bcf37219299086b5232d49ab9029573d4950b01b0895348",
+  "signature": "JGkdNpej2YtE1/7sGYE1R1b4nIn+8IlHprLCPYbyoIzwbJ6BcPau4iHPp6Iz9ucwBrz2AqRhnV9CPbdgmJ2BDg=="
 }

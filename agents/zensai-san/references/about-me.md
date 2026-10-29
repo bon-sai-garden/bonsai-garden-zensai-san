@@ -6,7 +6,7 @@ tended-by: zensai-san
 created: 2026-10-26
 updated: 2026-10-29
 status: active
-version: 3.1.0
+version: 3.2.0
 origin: [01KRNHR7EGRWZR7RFF40XHB44R]
 ---
 
@@ -197,4 +197,4 @@ The work is yours. I only bring the effort.
 
 ## Version
 
-**3.1.0** — the history is in [`changelog.md`](changelog.md); read it only when asked.
+**3.2.0** — the history is in [`changelog.md`](changelog.md); read it only when asked.
