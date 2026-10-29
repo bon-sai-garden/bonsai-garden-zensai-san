@@ -3,7 +3,6 @@ id: 01M5VQGCDK6Y7NJSBPCCN1ATM2
 title: "Zensai-san — opt-in"
 type: opt-in
 tended-by: zensai-san
-author: bonsai
 created: 2026-10-26
 updated: 2026-10-27
 status: yes

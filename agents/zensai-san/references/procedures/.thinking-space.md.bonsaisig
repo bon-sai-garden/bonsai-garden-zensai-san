@@ -4,9 +4,9 @@
   "signer": "zensai-san",
   "role": "owner",
   "fingerprint": "038019e65abdc0279870941e6ed942ae",
-  "timestamp": "2026-10-28T12:07:51Z",
+  "timestamp": "2026-10-29T12:40:20Z",
   "algorithm": "ed25519+blake2b512",
   "target": "agents/zensai-san/references/procedures/thinking-space.md",
-  "file-hash": "d65b3338ed0762b11a5704d063e17d91221026873cbf4d36675f3ea42995f9b71a50afdbfb89b8d68c40b013d20affea48adbc1ef531f0548499322d0a97bc49",
-  "signature": "E942FOxKYkbAFJK8kLKpBOxhqIEHL+ZQUdtfuBT9cVm+ET5IE/ru4g027zPlR3Z53tYFMj66ccdcjuSbV81mDg=="
+  "file-hash": "9ae9dc72826edf65cc41069a0e8d5b2d5dd0800e93c6622d06943e65b52b6bcf4cf879def0ededbe84b8e356c5cefe82fabc8f3e2cc58e039b1280ccb62c3b0d",
+  "signature": "MhUXcHLpIKhZseIV5PTmAiEi3MAQFOd6wU9yQjoE9VCqGReUeVQRhCVum7DiFQeADq7y7vt8Xz+yuHtegKVVBg=="
 }

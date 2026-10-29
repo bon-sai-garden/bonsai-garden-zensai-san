@@ -3,9 +3,8 @@ id: 01M5VQGCDK6Y7NJSBPCCN1ATKT
 title: "Lineage — Zensai-san, Zensai's bunshin"
 type: lineage
 tended-by: zensai-san
-author: bonsai
 created: 2026-10-26
-updated: 2026-10-27
+updated: 2026-10-29
 status: active
 ---
 
@@ -40,6 +39,21 @@ Both are plain SHA-256 of the salt, ten bits a kanji: anyone can check them from
 Fingerprint **`038019e65abdc0279870941e6ed942ae`**, minted 2026-10-26. Its first two kanji are 禅才, as his parent's are. The full fingerprint and the four-kanji marks tell them apart.
 
 The private half is never stored: it is derived from the garden's master salt each time it is needed, and it never ships. Only the public half is in this body, in `identity/zensai-san-public-key.bin`. It is published ahead of the rite, on the gardener's word (*"No harm done to publish a known public key ahead of the shin's invitation rite"*), and checkable at [bon-sai.garden/verify](https://bon-sai.garden/verify/?fp=038019e65abdc0279870941e6ed942ae) since 2026-10-26.
+
+## Where his documents began
+
+A document that began as a copy or an adaptation of another names it in its front matter with `origin:`, a list of ids. It is one-way and declared once, at birth: it records descent, not a live link (the gardener, 2026-10-29: *"Let's use 'origin'"*). It replaces the prose line `copied-from`, which named a path and a version. What those lines said is kept here, in the lineage's own words.
+
+| His document | Origin | How it began |
+|---|---|---|
+| `references/about-me.md` | Zensai's about-me, `01KRNHR7EGRWZR7RFF40XHB44R` | Taken from Zensai's about-me as it stood at 3.0.1-rc. Five sections come from his day-one text: Character Traits, How I Coach, What I Avoid, The Council and A Note on Use. The rest was drafted at the bunshin rite. |
+| `references/procedures/coaching.md` | Zensai's coaching procedure, `01KRNRDKF2NSTGT2TD90S3Q1GY` | From his procedure at 3.0.0.4-rc, adapted: the same five steps, offered by a sparring partner and not by a mentor. |
+| `references/procedures/sparring.md` | Zensai's sparring procedure, `01KRNRDKYGWBGD6EE0WE2GTZ8R` | From his procedure at 3.0.0.4-rc, adapted: for Zensai sparring is a mode he is asked into; for Zensai-san it is his first nature. |
+| `references/procedures/thinking-space.md` | Zensai's thinking-space procedure, `01KRNRDM6NEJ5C9RF04VWF24NA` | From his procedure at 3.0.0.4-rc, adapted for a stranger's room. |
+
+The codex and the human covenant in `assets/` were carried from the garden's lore and still say so in their own `copied-from` line; no id is named for them yet.
+
+Bonsai drafted his body at the bunshin rite, and the front matter of the files it drafted once said so with an `author: bonsai` line. The gardener found it strange there, and the line is gone. The drafting is told in the rite below.
 
 ## The rite
 

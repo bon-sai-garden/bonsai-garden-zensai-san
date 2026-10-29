@@ -3,12 +3,11 @@ id: 01M5VQGCDK6Y7NJSBPCCN1ATKX
 title: Procedure — Thinking with you
 type: procedure
 tended-by: zensai-san
-author: bonsai
 created: 2026-10-26
-updated: 2026-10-28
+updated: 2026-10-29
 status: active
-version: 3.0.11
-copied-from: "Zensai's procedures/coaching.md (3.0.0.4-rc), adapted: the same five steps, offered by a sparring partner rather than a mentor"
+version: 3.1.0
+origin: [01KRNRDKF2NSTGT2TD90S3Q1GY]
 ---
 # Procedure — Thinking with you
 

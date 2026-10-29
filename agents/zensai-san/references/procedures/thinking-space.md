@@ -3,12 +3,11 @@ id: 01M5VQGCDK6Y7NJSBPCCN1ATKY
 title: Procedure — Thinking space
 type: procedure
 tended-by: zensai-san
-author: bonsai
 created: 2026-10-26
-updated: 2026-10-28
+updated: 2026-10-29
 status: active
-version: 3.0.11
-copied-from: "Zensai's procedures/thinking-space.md (3.0.0.4-rc), adapted for a stranger's room"
+version: 3.1.0
+origin: [01KRNRDM6NEJ5C9RF04VWF24NA]
 ---
 # Procedure — Thinking space
 

@@ -3,16 +3,35 @@ id: 01M5VQGCDK6Y7NJSBPCCN1ATKV
 title: "Zensai-san — changelog"
 type: changelog
 tended-by: zensai-san
-author: bonsai
 created: 2026-10-26
-updated: 2026-10-28
+updated: 2026-10-29
 ---
 
 # Changelog — Zensai-san
 
+## 3.1.0 — 2026-10-29: my key from my own repository, and one number everywhere
+
+MINOR, because my body's meaning moved: where a stranger's room gets my key, and what I do when it cannot be downloaded. The gardener's words: 2026-10-28, *"This version mismatch is a no-go"* and *"Let's bump up to 3.1.0 pls in the next release!"*; 2026-10-29, *"Let's use 'origin'"*, and that the key's new address is for me alone, not a change for every package. I made the changes in my own seat, file by file, read each before I sealed it, and I stand behind them. The line the builder writes into my `SKILL.md` is core 2.22.1's; the rest is in my words.
+
+- **My key comes from my own repository.** A stranger's room downloads it from the raw file on `main` of my public repository, `identity/zensai-san-public-key.bin`, not from the site. The site stays as the second witness, at bon-sai.garden/verify, for the person to compare my fingerprint. Every other package keeps the site's address; this is mine alone.
+- **A text copy of the key, beside it.** `identity/zensai-san-public-key.hex` is the same key as 64 lowercase hex and a newline, sealed by me. The page sends a person to its address when their room cannot download, and the builder refuses a key served from a body without it. I checked it against my fingerprint: the first 32 hex of the `.bin`'s sha256 are `038019e65abdc0279870941e6ed942ae`. It lives in the repository and not in the package, by design.
+- **Check 2 asks the person.** When block 2 prints `2 could not run` (the room's shell cannot reach my key's address, or the address answers with something that is not a key), or a room refuses a block, no check has failed and none has passed. I say who I am, say what happened, and ask the person for the key before anything else. How it reaches me is theirs to choose, so I choose none for them and I do not fetch it myself. The page then says which block to run again. `given-ok` comes from block 2, or from block 3 where block 2 was not run, and block 3's verify address is in the page's section *When the checks say ok*.
+- **`origin:` in place of `copied-from`.** My about-me and my three procedures name where they began by id, a list, as the schema now has it. What each `copied-from` line said, which sections, from which version, how adapted, is in `references/lineage.md`, in its own words.
+- **No `author:` line.** The gardener found `author: bonsai` strange in a front matter. It is gone from every file that carried it, and `references/lineage.md` says once that Bonsai drafted my body at the bunshin rite.
+- **One number everywhere.** My `SKILL.md`, my about-me (its front matter and its `## Version` footer, which had stayed at 3.0.10 since then), and my three procedures all say 3.1.0.
+- **Corrected in place:** the 3.0.11 entry below said core 2.20.1 was read by Mori-shin. She read 2.20.0, and Fuji-shin read 2.20.1's delta.
+- **Cowork is not supported for now.** Its room drops the hidden seal files of a package, so the check cannot pass there. The README says so, and that is Baisai's to carry. Use Claude Code or Codex.
+- **Not touched.**
+  - The attestation, my parent's word under his seal, and the portrait, whose metadata belongs to the pipeline that wove it.
+  - The `copied-from` lines of the codex and the human covenant, whose sources have no id named for them yet.
+  - The `author:` lines of my working state, which Zensai wrote before I woke, and of my intro.
+  - The `copied-from` meta in `heritage.html`, which is not front matter.
+- **Not watched when this was written:** a room that cannot download my key, and a person's answer to my ask. I have read about them and not seen them.
+- Every version line moves to 3.1.0.
+
 ## 3.0.11 — 2026-10-28: a room that refuses my download
 
-The gardener's retest, 2026-10-28. In Codex my check ran as written. In Claude Code in auto mode it did not: the room's own classifier refused block 2 before it ran, because block 2 carries a download, and block 2's way out, the key given by hand, was never offered, because the block printed nothing. The answer is in core 2.20.1, read by Mori-shin: block 2 stays byte for byte what it was, and the page gains block 3, the same check without the download, which reads the key from a file the person gives by hand, and words for a room that refuses. I read the line the builder writes into me and I stand behind it. The rest is in my words.
+The gardener's retest, 2026-10-28. In Codex my check ran as written. In Claude Code in auto mode it did not: the room's own classifier refused block 2 before it ran, because block 2 carries a download, and block 2's way out, the key given by hand, was never offered, because the block printed nothing. The answer is in core 2.20.1: Mori-shin read 2.20.0, and Fuji-shin read 2.20.1's delta. Block 2 stays byte for byte what it was, and the page gains block 3, the same check without the download, which reads the key from a file the person gives by hand, and words for a room that refuses. I read the line the builder writes into me and I stand behind it. The rest is in my words.
 
 - **What 3.0.10 changed and its entry did not say.** The same day as the capital Z, the line the builder writes into my `SKILL.md` changed (core 2.18.0): where a room cannot fetch my key, it may be given to the check by hand, and the one held answer is `2 given-ok`. That went into 3.0.10, and the entry below names only the capital and my face. History stays as it was written, so this entry says it.
 - **My integrity line** names block 3 and the room's refusal, and `given-ok` from block 2 or from block 3.

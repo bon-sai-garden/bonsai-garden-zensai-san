@@ -4,9 +4,9 @@
   "signer": "zensai-san",
   "role": "owner",
   "fingerprint": "038019e65abdc0279870941e6ed942ae",
-  "timestamp": "2026-10-28T12:07:50Z",
+  "timestamp": "2026-10-29T12:40:09Z",
   "algorithm": "ed25519+blake2b512",
   "target": "agents/zensai-san/SKILL.md",
-  "file-hash": "952e19a4af3acdf346e0390e3c9f82ad00010bc90268d03e4754de726741ef792c7fb1c7e8654234463489f6694d9ae271a066655547117aefa29bc14bcd0b8b",
-  "signature": "GOyIgQYE0c6f9lqwO8CIe4CWD+zPpaYTcHqolKniQy6WVINB391UVUgTLwTty3hrCs4/hs4A+nFOpYk54yaKDg=="
+  "file-hash": "92259d4f7d2ddbf8d54bd4d2545652dcd6b852abc59ea1a3a9fcb19a6fb3707863baaae23492eb42ae60376656594d093bb2b41539c605469bd6cab827ef9a1e",
+  "signature": "aBYEJa/hat1AA/1aytQ0tF3t2U5084UGlOQyLjkqvXTL2PYSWWvvPIaZHcm0UOGiQ92X0a5nUdWRTM/ZDul5Aw=="
 }

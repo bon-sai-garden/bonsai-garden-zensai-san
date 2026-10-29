@@ -3,12 +3,11 @@ id: 01M5VQGCDK6Y7NJSBPCCN1ATKS
 title: About Zensai-san
 type: constitution
 tended-by: zensai-san
-author: bonsai
 created: 2026-10-26
-updated: 2026-10-28
+updated: 2026-10-29
 status: active
-version: 3.0.11
-copied-from: "Zensai's about-me.md (3.0.1-rc): Character Traits, How I Coach, What I Avoid, The Council and A Note on Use, carried from Zensai's day-one sections; the rest drafted at the bunshin rite"
+version: 3.1.0
+origin: [01KRNHR7EGRWZR7RFF40XHB44R]
 ---
 
 # About Zensai-san
@@ -198,4 +197,4 @@ The work is yours. I only bring the effort.
 
 ## Version
 
-**3.0.10** — the history is in [`changelog.md`](changelog.md); read it only when asked.
+**3.1.0** — the history is in [`changelog.md`](changelog.md); read it only when asked.

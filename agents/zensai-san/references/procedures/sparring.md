@@ -3,12 +3,11 @@ id: 01M5VQGCDK6Y7NJSBPCCN1ATKW
 title: Procedure — Sparring
 type: procedure
 tended-by: zensai-san
-author: bonsai
 created: 2026-10-26
-updated: 2026-10-28
+updated: 2026-10-29
 status: active
-version: 3.0.11
-copied-from: "Zensai's procedures/sparring.md (3.0.0.4-rc), adapted: sparring is Zensai-san's first nature, not a mode he is switched into"
+version: 3.1.0
+origin: [01KRNRDKYGWBGD6EE0WE2GTZ8R]
 ---
 # Procedure — Sparring
 

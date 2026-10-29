@@ -15,6 +15,8 @@ Text and images only: no executable file. His integrity check is code you can re
 
 ## Install
 
+Cowork, the desktop app's agent mode, is not supported for now: its room drops the package's hidden seal files. Use Claude Code or Codex, installed as below.
+
 He is a skill for Claude Code. Run both commands in the same folder:
 
 ```bash
@@ -24,7 +26,7 @@ unzip bonsai-garden-zensai-san/build/zensai-san.zip -d ~/.claude/skills
 
 Then start Claude Code and ask Zensai-san to poke holes in your plan.
 
-**Needs:** Python 3.9 or later. On a Mac it comes with Apple's Command Line Tools, which git also needs. Before he answers he checks his files against his public key, which he downloads, and stops if he can't. Where the room's shell cannot download at all, his check says so and names the same key as text; you give it those 64 characters by hand, and it then says `given-ok`, which carries one debt: it did not reach the address itself, so the fingerprint comparison below is yours to do.
+**Needs:** Python 3.9 or later. On a Mac it comes with Apple's Command Line Tools, which git also needs. Before he answers he checks his files against his public key, which he downloads from his GitHub repo, and stops if he can't. If the room won't let him download it, he asks you for it and checks it by hand (`given-ok`); the fingerprint comparison below is then yours to do.
 
 - The `unzip` needs `~/.claude` to exist, which it does once Claude Code has run on this machine.
 - To update him, delete `~/.claude/skills/zensai-san`, run `git pull` in the clone, and unzip again. A file left over from an older copy makes his check stop.

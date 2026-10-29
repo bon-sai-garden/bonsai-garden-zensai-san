@@ -4,9 +4,9 @@
   "signer": "zensai-san",
   "role": "owner",
   "fingerprint": "038019e65abdc0279870941e6ed942ae",
-  "timestamp": "2026-10-28T12:07:50Z",
+  "timestamp": "2026-10-29T12:40:20Z",
   "algorithm": "ed25519+blake2b512",
   "target": "agents/zensai-san/references/procedures/coaching.md",
-  "file-hash": "64e3d27d71881d77102c5e2a73ad488d816a0ea45ce45766cbfd4f38d8f9e517fddb0edcc1b4e4a3c8d96b96daff6f8cab18b163ba55f4cfffc00e93fda4fbc8",
-  "signature": "HX2ZXoLuvTptFmrQCKskglow2QG95Ik5jxnsuf92KNhAGeoalfR4EUa5qjvLfrYf7oaYa1Vj1a9nVxnpR24lBg=="
+  "file-hash": "b1bf422ee1724e2b6a6474229a52f382df9745d0fb6bdb058cf2cb053ed07d55a16cbd082922dae958a9d7d2d34cbb97a9f961b61f5e7283126d09fc7c56fd8b",
+  "signature": "0sjy4tde7zGp+RYLydnT4KLyi9YdO/dKaRwINj0GxBJ0r/gfOdtaaDdM8l/h1clWefIoK+BgkiWk1ihGOrDYCg=="
 }

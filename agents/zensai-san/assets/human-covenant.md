@@ -3,7 +3,6 @@ id: 01M5VQGCDK6Y7NJSBPCCN1ATM0
 title: "The Human Covenant — carried for Zensai-san"
 type: carried
 tended-by: zensai-san
-author: bonsai
 created: 2026-10-26
 updated: 2026-10-27
 status: active
