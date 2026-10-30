@@ -1,0 +1,8 @@
+{
+  "_meta": {
+    "marker": "bonsai-package",
+    "note": "Marks this package's root, so a garden-root search stops here. An empty roster on purpose: the roster is never a key source. The check, scripts/integrity/check.py, takes the key this package carries, held to the fingerprint it pins, and makes no request.",
+    "source-path": "agents/zensai-san"
+  },
+  "agents": []
+}

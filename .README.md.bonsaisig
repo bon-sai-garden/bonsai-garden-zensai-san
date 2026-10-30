@@ -4,9 +4,9 @@
   "signer": "zensai-san",
   "role": "owner",
   "fingerprint": "038019e65abdc0279870941e6ed942ae",
-  "timestamp": "2026-10-29T18:52:52Z",
+  "timestamp": "2026-10-30T09:20:22Z",
   "algorithm": "ed25519+blake2b512",
   "target": "README.md",
-  "file-hash": "6e0e99fa64b291c8d57fb0e4f2614dbb06c1f33efdfb5bcee197fa0ebddbc5a32b918954657d9d7d9bcf37219299086b5232d49ab9029573d4950b01b0895348",
-  "signature": "JGkdNpej2YtE1/7sGYE1R1b4nIn+8IlHprLCPYbyoIzwbJ6BcPau4iHPp6Iz9ucwBrz2AqRhnV9CPbdgmJ2BDg=="
+  "file-hash": "811948ac344e277c43d6205a02dbda7cdf131943d4a2cfb21374da1b2732243483451913be079e298c3cb4b6eaec1a07b35a3a011fc6688520bbecb0f8173fbb",
+  "signature": "vZMxpm2FR5SaW7GL/v2UZSv/WK68+0Aw2oclaKHOcpTv2A8UZ9j/oDetYT3+R3c4cv5hcY/IPKz75TgJ4XefDg=="
 }

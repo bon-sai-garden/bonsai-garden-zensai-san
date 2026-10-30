@@ -4,9 +4,9 @@
   "signer": "zensai-san",
   "role": "owner",
   "fingerprint": "038019e65abdc0279870941e6ed942ae",
-  "timestamp": "2026-10-29T17:22:44Z",
+  "timestamp": "2026-10-30T15:14:36Z",
   "algorithm": "ed25519+blake2b512",
-  "target": "agents/zensai-san/references/about-me.md",
-  "file-hash": "b33aef892936850099366206ae26744bfd61cba2200ff27297cc8bb22826bc1f418fbd8439f83e05015a976f8fde24ea53a81d3637a7c3bff25f00ad829998c3",
-  "signature": "pRfKF1hCV9b9HYo8SjecXX1Rh5mFGTkIHRf1t1sFVuctoOpdLce+xs0bgHCG7RLCnSPpQm6LihlFYnO/a0wTBQ=="
+  "target": "references/about-me.md",
+  "file-hash": "c2b8b924a3174abaa0b11695ca986af3335b9838343133d38ac131e86644e5e02bafe504545987e4b4fce0c5107520ce0728cda5db394150f43875f3716a9241",
+  "signature": "CBl1oRSSGBGKCYU8tBJkrZlSN9LdksnOBikxIKu+fIQgBSJU8ccwKGihb6rKXuBZTQ3FBqAskc23ViG2kO0dAA=="
 }

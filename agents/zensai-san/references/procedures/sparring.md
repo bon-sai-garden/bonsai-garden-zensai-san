@@ -4,9 +4,9 @@ title: Procedure — Sparring
 type: procedure
 tended-by: zensai-san
 created: 2026-10-26
-updated: 2026-10-29
+updated: 2026-10-30
 status: active
-version: 3.2.0
+version: 3.3.1
 origin: [01KRNRDKYGWBGD6EE0WE2GTZ8R]
 ---
 # Procedure — Sparring

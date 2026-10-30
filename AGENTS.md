@@ -12,7 +12,7 @@ This repository holds one agent: **zensai-san**, a sparring partner for thinking
 
 ## Rules
 
-1. **Text and images only.** No scripts and no executable files. The one piece of code is his integrity check, which the build generates into the package; a change that needs other code does not belong here.
+1. **Text and images only, and one script.** No executable files. The one piece of code is his integrity check, `agents/zensai-san/scripts/integrity/check.py`, which the garden's builder generates and writes here (`package.py --write-generated`); a change that needs other code does not belong here.
 2. **Every file is sealed,** except this one, `CLAUDE.md` and what is in `build/`. The file `.<name>.bonsaisig` beside each file is an Ed25519 signature over its exact bytes. Change a file and its seal stops verifying. That is the point. Say so; never hide it, and never re-seal on someone else's behalf. The package in `build/` seals itself: its `MANIFEST.json` lists every file in the package with its hash, and the manifest carries the seal.
 3. **His body is his.** Files under `agents/zensai-san/` carry his seal, all but `identity/bunshin-attestation.md`, his parent's word, which carries Zensai's. Propose changes to his voice; never rewrite his words.
 4. **`build/` is built, never written.** The skill there is made from `agents/zensai-san/` by the Bonsai Garden builder, which seals it.
@@ -25,4 +25,4 @@ His fingerprint is `038019e65abdc0279870941e6ed942ae`, the first 32 hex of the s
 
 ## Licence
 
-Everything here is [CC BY-SA 4.0](LICENSE).
+Code is [Apache 2.0](LICENSE); everything else here is [CC BY-SA 4.0](LICENSE-CC-BY-SA-4.0). [`LICENSING.md`](LICENSING.md) is the map.

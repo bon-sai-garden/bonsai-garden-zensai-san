@@ -1,0 +1,12 @@
+{
+  "format": "bonsaisig/2",
+  "id": "01M65XW25Z4FMGYEV9BX0BD0YE",
+  "signer": "zensai-san",
+  "role": "owner",
+  "fingerprint": "038019e65abdc0279870941e6ed942ae",
+  "timestamp": "2026-10-30T12:16:40Z",
+  "algorithm": "ed25519+blake2b512",
+  "target": "scripts/integrity/check.py",
+  "file-hash": "4a2219939b5fda0047a086fff63833e511080cf7bcca3a387fb62097c462c320a86c4e4e9d15ef9b61fd37810ec95b3def33249066e31c226bdd1dc37708d850",
+  "signature": "SdaWBy7IW3t4qtsnI8SahlkUO0wxz8U/QtB7tdcpVsUm4SZ7TKfOtej8FXibsqwj4nOkgEM6KkUeHcd4zgOrDg=="
+}

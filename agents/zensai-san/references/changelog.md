@@ -4,10 +4,43 @@ title: "Zensai-san — changelog"
 type: changelog
 tended-by: zensai-san
 created: 2026-10-26
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 # Changelog — Zensai-san
+
+## 3.3.1 — 2026-10-30: the 3.3.0 entry tells the truth, and the licence map points only at what I carry
+
+PATCH, because nothing I do changed: my check, my words and my seal are as in 3.3.0. Two pages said more than was so, and Fuji-shin, reading my built 3.3.0 as a stranger would, found it. I mended both in my own seat, read each file before I sealed it, and I stand behind the changes. The line the builder writes into my `SKILL.md` is core 2.24.0's; the rest is in my words.
+
+- **Corrected in place: the 3.3.0 entry below.** It said three things the build does not do, and now says what is so.
+  - *Not changed.* It said the notes inside two generated files, and the front matter of two more, were left as the master had them. The master was changed after my first read, and the five generated files were rewritten and sealed again. The bullet is now *The generated files, mended after my first read*, and says so.
+  - *A count.* It gave a number of expectations that held, and the suite has grown since. A number in a changelog is stale the next time its suite changes, so the entry now says that every expectation held and gives no count.
+  - *The `-I` flag.* It did not say that my script refuses to start without `-I`, nor that a folder it cannot list is a stop. It says both.
+- **My licence map points only at what I carry.** `LICENSING.md` linked `CREDITS.md`, which is in my repository and not in my package, and said the package carries "the same three files" its table named, `CREDITS.md` among them. It now names my credits: `references/credits.md` in the package, `agents/zensai-san/references/credits.md` in the repository. That page says what the link meant, what I stand on and each source's licence. It names the credits in code, not as a link: a link that works in the repository and breaks in the package points at nothing. It says in one sentence that its paths are the repository's and where the same files sit in the package, and it marks `README.md`, `AGENTS.md`, `CLAUDE.md` and `CREDITS.md` as repository-only.
+- **Not changed.**
+  - The script and the page that describe it, and the other three generated files: core's master has not changed them since 3.3.0, and the generator on my body says all five are as committed.
+  - `LICENSE` and `LICENSE-CC-BY-SA-4.0` keep Baisai's seals. The gardener has ruled that a licence text is the licence's own words and not mine, so it keeps the seal of the hand that brought it in, and the builder holds both, byte for byte, to the garden's copy. The map, `LICENSING.md`, is mine, and I sealed it.
+- **What I watched.** I ran the builder's generator on my own body (all five generated files come out as committed), the licence audit on my repository (one code file, an SPDX line on it, no gap), Baisai's suite for the script on core's current main (every expectation holds), and the garden's conformance gate on my body against the published keys.
+- **Not watched when this was written:** the package built from this body, which is built after this entry, and the check in a live room, Claude Code in auto mode and Codex. I have read about them and not seen them.
+- Every version line moves to 3.3.1.
+
+## 3.3.0 — 2026-10-30: my check is a script, and every licence is where a stranger finds it
+
+MINOR, because how my check runs changed. The gardener's words, 2026-10-30: *"We are obliged to ship all code as Apache v2"*, when he saw that my check's Python sat inside a document under the licence of my words; and *"make sure we check that we do have all files we bundle in the build are in the source code of the repo as well"*. Baisai prepared this release in their own seat: the builder's changes (core 2.24.0) and the edits to my body, sealed by them as custodian and held for me. I read every file in my name and the whole diff against 3.2.0.1, changed the few things below that I would not put my name to, and seal the rest as mine. The line the builder writes into my `SKILL.md` is core 2.24.0's; the rest is in my words.
+
+- **My check is a script.** `scripts/integrity/check.py`, the canonical folder for a skill's scripts, run with `python3 -I scripts/integrity/check.py` from the package's base directory. The same two verdicts, `1 ok` and `2 ok`, and the same stop rule: every file against the sealed manifest, then the seal against the key I carry, held to the fingerprint the script pins. Standard library only, no request, nothing written. It finds my package's folder from its own place, and stops with `1 could not run` if it is not where a package keeps it. It refuses to start without `-I`: without Python's isolated mode, a file placed beside the script, a `json.py` for one, would run in place of Python's own; the script says so in one line and checks nothing. A folder it cannot list is a stop too, named, never a skip. It opens with a copyright line and `SPDX-License-Identifier: Apache-2.0`. `references/integrity.md` is now words: what each check proves, the stop rule, how to read the script before it runs.
+- **The licences travel with me.** `LICENSE` (Apache 2.0, for code), `LICENSE-CC-BY-SA-4.0` (my words, rites and portrait) and `LICENSING.md` (which path is which) sit at the root of this repository and of my package. The map says my card's template and my heritage page's styles are code, and so Apache 2.0; their words stay CC BY-SA 4.0.
+- **Everything I ship is in this repository.** The script, the page, the package marker, my public row and the empty memory index are written by the garden's builder from one master, committed here, and the build refuses a package whose files differ from what is committed. Only the manifest and its seal, and my `SKILL.md` as stamped with its seal, are made at the build.
+- **What I changed in what Baisai prepared.**
+  - `SKILL.md`: the list of my files said the script and the page were *committed here*, which a stranger's folder is not, and its last paragraph said the build writes three small files of its own, which it no longer does. Both now say what is true: the builder writes them, and my repository holds the same bytes. One line of the list was out of its column.
+  - `credits.md`: three sentences called CC BY-SA 4.0 *the licence of his repository* or *his body's*. My repository now has two licences, so they say *the licence of his words*.
+  - `LICENSING.md`: its type was `reference`, which the garden's schema does not have; it is `meta`, as `CREDITS.md`'s is.
+  - `updated:` moves to 2026-10-30 in every file whose version line moved.
+- **The generated files, mended after my first read.** When I first read them, the notes inside `agents/registry.json` and `identity/registry-entry.json` said that the check is in `references/integrity.md` and that *that page* pins the fingerprint, though the script is what pins it. The front matter of `references/integrity.md` and `memory/MEMORY.md` was one the garden's validator does not accept (a type it does not know, no `created`, no `updated`). The five generated files are written by the builder from one master, so the fix was the master's, not a hand edit here. Baisai changed the master (core 2.24.0) after Mori-shin's read and rewrote the five from it. I read the five again and sealed them as owner. The notes now say that the check is the script, that it takes the key the package carries and holds it to the fingerprint it pins, and that it makes no request.
+- **What I watched.** I ran Baisai's suite for the script myself, on the core of that morning: every expectation held, the floor Python 3.9.6 included. I ran the builder's generator on my own body (the committed copies are what it writes) and the licence audit on my repository (one code file, an SPDX line on it, no gap). I ran the script's verifier on my real seal under my real key: it says yes to it, and no to a changed payload, a flipped bit, another kin's key, a scalar at or above the group order, a zero key and a short signature. Run on a folder that is not a package, or from the wrong place, the script stops with `1 could not run` and writes nothing.
+- **Not watched when this was written:** a package built through the builder and sealed (the next seat's, after Mori-shin's read and the merge of core's share), and the check in a live room, Claude Code in auto mode and Codex. I have read about them and not seen them.
+- Every version line moves to 3.3.0.
 
 ## 3.2.0 — 2026-10-29: my check offline, and my face kept
 

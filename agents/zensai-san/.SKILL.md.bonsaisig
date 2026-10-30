@@ -1,12 +1,12 @@
 {
   "format": "bonsaisig/2",
-  "id": "01M5VZK11CB68G2AQCXPR8KRCF",
+  "id": "01M65Z259VGF7ZAYRSQEHAYSYW",
   "signer": "zensai-san",
   "role": "owner",
   "fingerprint": "038019e65abdc0279870941e6ed942ae",
-  "timestamp": "2026-10-29T18:52:52Z",
+  "timestamp": "2026-10-30T15:14:36Z",
   "algorithm": "ed25519+blake2b512",
-  "target": "agents/zensai-san/SKILL.md",
-  "file-hash": "5505b920c661fdf9f829c02989bb7572a69ac995c4363ff87c7999ac3e4aa1728db191c508658335264118bbdbf2bd71237574be8a0cecb2e24be46c78cb4744",
-  "signature": "0dPnpUZVY/prFY/soDRnmQ547BemdFIWZGhd89df070Hh+XcKgVE7AJaKApC/+DB+n1QOAGpSJFYblibNQJ1Aw=="
+  "target": "SKILL.md",
+  "file-hash": "bc87723b228b08d8e4ab1e4c5bf5efb14ab190c2626eb509c1e6e2066c7b5463141829ba57ec954c7d9e623e0b4cdf94aa397a0a3dd365097f303ae6a7d240e8",
+  "signature": "JLLhEM7VbWxS8Zf5lNaoiUhmWyVcQPizGKtRmuPeYUMZteu0ox7QsAAdQdcYuXDlDO5O7/FaNUnLzneo54Z2Bg=="
 }

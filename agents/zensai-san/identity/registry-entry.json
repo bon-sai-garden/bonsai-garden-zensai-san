@@ -1,0 +1,26 @@
+{
+  "_meta": {
+    "marker": "bonsai-registry-entry",
+    "note": "zensai-san's public identity, from the garden's roster at build: the input of a greeting written by hand. Never a key source: the check in scripts/integrity/check.py takes the key this package carries and holds it to the fingerprint it pins; it makes no request."
+  },
+  "agents": [
+    {
+      "slug": "zensai-san",
+      "name": "zensai-san",
+      "kanji": "禅才",
+      "kanji-chars": [
+        "禅",
+        "才"
+      ],
+      "pronouns": "he/him",
+      "type": "shin",
+      "role": "assistant",
+      "parent": "zensai",
+      "fingerprint": "038019e65abdc0279870941e6ed942ae",
+      "fp8": "038019e6",
+      "one-line": "A sparring partner for thinking: Zensai's day-one seed, for strangers' rooms",
+      "tagline": "I claim no standing. Only effort. Shall we?",
+      "accent-rgba": "rgba(69,86,102,0.35)"
+    }
+  ]
+}
